@@ -30,4 +30,7 @@ The dashboard provides a data-driven view of:
 ---
 
 ## 📂 Repository Structure
-
+Amazon-Sales-Dashboard/
+├─ data/ → Contains dataset (amazon.csv)
+├─ dashboards/ → Contains Power BI file (Amazon_sales.pbix)
+└─ README.md → Project documentation
